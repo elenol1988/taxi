@@ -624,7 +624,7 @@
 }
 
 .appointment .appointment-form {
-    background: rgba(239, 162, 134, 0.3);
+    background: rgba(255, 248, 43, 0.5);
 }
 
 .appointment .appointment-form .btn.btn-primary {
@@ -1189,4 +1189,44 @@
 .btn-primary {
     background-color: var(--bs-gray);
     border-color: var(--bs-gray);
+}
+
+.display-3 {
+    font-size: calc(1.525rem + 3.3vw);
+    font-weight: 600;
+    line-height: 1.2
+}
+
+@media(min-width: 1200px) {
+    .display-3 {
+        font-size: 2rem
+    }
+}
+@media(min-width: 1200px) {
+    h4, .h4 {
+        font-size: 1rem;
+    }
+}
+@media (min-width: 1200px) {
+    .display-5 {
+        font-size: 1rem;
+    }
+}
+
+@media(min-width: 1200px) {
+    .fs-1 {
+        font-size: 2.5rem !important
+    }
+
+    .fs-2 {
+        font-size: 2rem !important
+    }
+
+    .fs-3 {
+        font-size: 1.75rem !important
+    }
+
+    .fs-4 {
+        font-size: 1rem !important;
+    }
 }

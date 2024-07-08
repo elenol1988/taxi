@@ -123,6 +123,9 @@
   <data name="Airport2" xml:space="preserve">
     <value>Αεροδρόμιο Θεσσαλονικής</value>
   </data>
+  <data name="Price" xml:space="preserve">
+    <value>Τιμή :</value>
+  </data>
   <data name="Services" xml:space="preserve">
     <value>Υπηρεσίες</value>
   </data>

@@ -41,5 +41,11 @@ namespace Taxi_Volos.Controllers
                     Expires = DateTimeOffset.UtcNow.AddDays(1)
                 });
         }
+
+        [HttpPost]
+        public async Task<string> Submit(SendEmailModel model)
+        {
+            return "Thank you";
+        }
     }
 }

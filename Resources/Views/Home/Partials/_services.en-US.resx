@@ -123,6 +123,9 @@
   <data name="Airport2" xml:space="preserve">
     <value>Thessaloniki Airport</value>
   </data>
+  <data name="Price" xml:space="preserve">
+    <value>Price :</value>
+  </data>
   <data name="Services" xml:space="preserve">
     <value>Services</value>
   </data>

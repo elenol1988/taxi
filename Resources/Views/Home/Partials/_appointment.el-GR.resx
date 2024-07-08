@@ -117,16 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Airport1" xml:space="preserve">
-    <value>Αεροδρόμιο Αθήνα</value>
+  <data name="Comments" xml:space="preserve">
+    <value>Θέμα</value>
   </data>
-  <data name="Airport2" xml:space="preserve">
-    <value>Αεροδρόμιο Θεσσαλονικής</value>
+  <data name="Date" xml:space="preserve">
+    <value>Ημερομηνία</value>
   </data>
-  <data name="Services" xml:space="preserve">
-    <value>Υπηρεσίες</value>
+  <data name="Destination" xml:space="preserve">
+    <value>Προορισμός</value>
   </data>
-  <data name="What We Do" xml:space="preserve">
-    <value>Τι Προσφέρουμε</value>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="GetAppointment" xml:space="preserve">
+    <value>Στείλτε μας το μήνυμά σας</value>
+  </data>
+  <data name="GetInTouch" xml:space="preserve">
+    <value>Θέλετε να έρθετε σε επικοινωνία?</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Ονοματεπώνυμο</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>Τηλέφωνο</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Αποστολή</value>
   </data>
 </root>
