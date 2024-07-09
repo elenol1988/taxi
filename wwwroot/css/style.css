@@ -616,7 +616,7 @@
 
 /*** Appointment Start ***/
 .appointment {
-    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(../img/carousel-2.jpg);
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.7)), url(../img/taxi/taxi-4.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -624,17 +624,19 @@
 }
 
 .appointment .appointment-form {
-    background: rgba(255, 248, 43, 0.5);
+    background: rgba(255, 215, 0, 0.8);
 }
 
-.appointment .appointment-form .btn.btn-primary {
-    box-shadow: inset 0 0 0 0 var(--bs-gray);
-}
+    .appointment .appointment-form .btn.btn-primary {
+        box-shadow: inset 0 0 0 0 var(--bs-gray);
+        border-color: var(--bs-gray);
+    }
 
-.appointment .appointment-form .btn.btn-primary:hover {
-    box-shadow: inset 600px 0 0 0 var(--bs-light) !important;
-    color: var(--bs-gray) !important;
-}
+        .appointment .appointment-form .btn.btn-primary:hover {
+            box-shadow: inset 600px 0 0 0 var(--bs-light) !important;
+            color: var(--bs-gray) !important;
+            border-color: var(--bs-gray);
+        }
 /*** Youtube Video start ***/
 .video {
     position: relative;
@@ -1154,7 +1156,7 @@
 
 /*** Footer Start ***/
 .footer {
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(../img/carousel-2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(../img/taxi/taxi-7.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1229,4 +1231,23 @@
     .fs-4 {
         font-size: 1rem !important;
     }
+}
+.text-secondary {
+    color: rgb(255, 215, 0) !important;
+}
+
+.text-light{
+    color: black !important;
+}
+
+.appointment-contact {
+    font-size: 1.5rem !important;
+}
+    .appointment-contact i {
+        color: gold !important;
+    }
+
+
+.border-primary{
+    border-color :black !important;
 }

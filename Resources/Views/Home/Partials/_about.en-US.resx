@@ -117,16 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Airport1" xml:space="preserve">
-    <value>Athens Airport</value>
+  <data name="About" xml:space="preserve">
+    <value>About us</value>
   </data>
-  <data name="Airport2" xml:space="preserve">
-    <value>Thessaloniki Airport</value>
+  <data name="Description" xml:space="preserve">
+    <value>The Experience Volos Taxi is a family-owned business composed of, engaged with, and collaborating with experienced professional drivers. Our company’s priority is the experience, safe driving, and professionalism, as we travel with luxurious, spacious, and clean vehicles, catering to the needs of our customers for a comfortable and secure journey.</value>
   </data>
-  <data name="Services" xml:space="preserve">
-    <value>Services</value>
+  <data name="Experience" xml:space="preserve">
+    <value>15 years experience</value>
   </data>
-  <data name="What We Do" xml:space="preserve">
-    <value>What We Offer</value>
+  <data name="Payment" xml:space="preserve">
+    <value>Payment also with POS</value>
+  </data>
+  <data name="Prices" xml:space="preserve">
+    <value>Competitive prices</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>Reliability and trust</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Experience Taxi Volos</value>
   </data>
 </root>

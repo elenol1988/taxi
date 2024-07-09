@@ -120,6 +120,12 @@
   <data name="Comments" xml:space="preserve">
     <value>Θέμα</value>
   </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Επικοινωνήστε μαζί μας!</value>
+  </data>
+  <data name="ContactDescr" xml:space="preserve">
+    <value>You can contact us by calling us by phone, by email or by filling out the form and we will call you immediately to reschedule our appointment!!</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>Ημερομηνία</value>
   </data>
